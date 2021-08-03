@@ -17,7 +17,7 @@
 
 <h2> Author </h2> 
 
-<h2> Carlos Zapata </h2>
-<a href="https://github.com/czapata08">Git Hub</a>
+<h3> Carlos Zapata </h3>
+<a href="https://github.com/czapata08">Ojo MyGitHub </a>
 
 <h2> Thanks for reading! </h2>
