@@ -10,6 +10,14 @@
 
 <h2> Key Learnings </h2>
 <ol> 
-   <li> Organizing your code by kind. For this assingment I create a separate JavaScript file for all the javascript code that executes the movement of the ball</li>
+   <li> How to work with built in functions and conditionals on javascript</li>
+   <li> Code Organization: for this assingment I create a separate JavaScript file for all the javascript code that executes the movement of the ball</li>
    <li> How to work with the DOM "Document Object Model" and link different document kinds such a CSS and Java to HTML </li>
 </ol>
+
+<h2> Author </h2> 
+
+<h2> Carlos Zapata </h2>
+<a href="https://github.com/czapata08">Git Hub</a>
+
+<h2> Thanks for reading! </h2>
