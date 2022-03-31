@@ -1,5 +1,5 @@
 <h1> Ball Simulation </h1>
-<h4> The goal with this repo is to work with the dom and dynamically add animation using CSS and JavaScript</h4>
+<h4> The goal with this repo is to work with the dom and dynamically add animation of a ball moving thruough the screen using CSS and JavaScript</h4>
 
 <h2>Project Goals</h2>
 <ol> 
