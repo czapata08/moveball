@@ -22,7 +22,6 @@
 <li>HTML</li>
 
 <h2> Author </h2> 
-
 <h3> Carlos Zapata </h3>
 <a href="https://github.com/czapata08">MyGitHub</a>
 
